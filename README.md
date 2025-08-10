@@ -24,6 +24,7 @@ Todo el desarrollo de la lógica se realizó en **JavaScript**, utilizando HTML 
 ## 📂 Estructura del proyecto
 
 .
+
 ├── index.html # Estructura principal de la página
 
 ├── style.css # Estilos visuales
