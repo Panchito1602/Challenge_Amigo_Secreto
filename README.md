@@ -39,11 +39,11 @@ Todo el desarrollo de la lógica se realizó en **JavaScript**, utilizando HTML 
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
 
-Abrir el proyecto
+2. **Abrir el proyecto**
 
-Abre el archivo index.html en tu navegador favorito.
+3. **Abre el archivo index.html en tu navegador favorito.**
 
-No se necesitan dependencias ni instalación adicional.
+4. **No se necesitan dependencias ni instalación adicional.**
 
 ## Uso
 
