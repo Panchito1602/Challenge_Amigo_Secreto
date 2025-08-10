@@ -18,14 +18,18 @@ Todo el desarrollo de la lógica se realizó en **JavaScript**, utilizando HTML 
 ## 🚀 Tecnologías utilizadas
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
+- Visual Studio Code
 
 ## 📂 Estructura del proyecto
 
 .
 ├── index.html # Estructura principal de la página
+
 ├── style.css # Estilos visuales
+
 ├── app.js # Lógica de programación (JS)
+
 └── assets/ # Imágenes y recursos gráficos
 
 ## ⚙️ Instalación y uso
