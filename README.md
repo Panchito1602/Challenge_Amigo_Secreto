@@ -15,14 +15,10 @@ La aplicación permite:
 
 Todo el desarrollo de la lógica se realizó en **JavaScript**, utilizando HTML y CSS provistos por Alura Latam.
 
----
-
 ## 🚀 Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-
----
 
 ## 📂 Estructura del proyecto
 
@@ -31,9 +27,6 @@ Todo el desarrollo de la lógica se realizó en **JavaScript**, utilizando HTML 
 ├── style.css # Estilos visuales
 ├── app.js # Lógica de programación (JS)
 └── assets/ # Imágenes y recursos gráficos
-
-
----
 
 ## ⚙️ Instalación y uso
 
@@ -47,13 +40,13 @@ Abre el archivo index.html en tu navegador favorito.
 
 No se necesitan dependencias ni instalación adicional.
 
-Uso
+## Uso
 
-Escribe un nombre en el campo de texto y presiona "Añadir".
+1. Escribe un nombre en el campo de texto y presiona "Añadir".
 
-Repite el proceso para todos los amigos que quieras agregar.
+2. Repite el proceso para todos los amigos que quieras agregar.
 
-Presiona "Sortear amigo" para elegir un amigo secreto al azar.
+3. Presiona "Sortear amigo" para elegir un amigo secreto al azar.
 
-Después del sorteo, la lista se limpiará automáticamente para iniciar un nuevo juego.
+4. Después del sorteo, la lista se limpiará automáticamente para iniciar un nuevo juego.
 
